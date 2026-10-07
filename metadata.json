@@ -1,0 +1,6 @@
+{
+  "name": "Velum Vault",
+  "description": "A private personal digital storage vault with a dark liquid-glass aesthetic, sovereign encryption, multi-format media engine, and command search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
